@@ -1,2 +1,2 @@
-# Play-Store-App-Review-Analysis---Capstone-Project-1-Mahesh-Landge.
+# Play-Store-App-Review-Analysis-Capstone-Project-1-Mahesh-Landge.
 Play Store is a Application distribution platform and pre-installed on smartphones that ship with Google Mobile Services and it's free to use. It provides access to content on the Google Play Store, including apps, books, magazines, music, movies, and television programs.Their lots of designers and developers work on it to make play store services outstanding than other stores present in the market.
